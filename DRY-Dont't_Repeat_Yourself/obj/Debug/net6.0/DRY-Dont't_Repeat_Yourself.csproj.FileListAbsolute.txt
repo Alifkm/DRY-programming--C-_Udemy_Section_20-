@@ -1,0 +1,15 @@
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 20\DRY-Dont't_Repeat_Yourself\DRY-Dont't_Repeat_Yourself\bin\Debug\net6.0\DRY-Dont't_Repeat_Yourself.exe
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 20\DRY-Dont't_Repeat_Yourself\DRY-Dont't_Repeat_Yourself\bin\Debug\net6.0\DRY-Dont't_Repeat_Yourself.deps.json
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 20\DRY-Dont't_Repeat_Yourself\DRY-Dont't_Repeat_Yourself\bin\Debug\net6.0\DRY-Dont't_Repeat_Yourself.runtimeconfig.json
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 20\DRY-Dont't_Repeat_Yourself\DRY-Dont't_Repeat_Yourself\bin\Debug\net6.0\DRY-Dont't_Repeat_Yourself.dll
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 20\DRY-Dont't_Repeat_Yourself\DRY-Dont't_Repeat_Yourself\bin\Debug\net6.0\DRY-Dont't_Repeat_Yourself.pdb
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 20\DRY-Dont't_Repeat_Yourself\DRY-Dont't_Repeat_Yourself\obj\Debug\net6.0\DRY-Dont't_Repeat_Yourself.csproj.AssemblyReference.cache
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 20\DRY-Dont't_Repeat_Yourself\DRY-Dont't_Repeat_Yourself\obj\Debug\net6.0\DRY-Dont't_Repeat_Yourself.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 20\DRY-Dont't_Repeat_Yourself\DRY-Dont't_Repeat_Yourself\obj\Debug\net6.0\DRY-Dont't_Repeat_Yourself.AssemblyInfoInputs.cache
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 20\DRY-Dont't_Repeat_Yourself\DRY-Dont't_Repeat_Yourself\obj\Debug\net6.0\DRY-Dont't_Repeat_Yourself.AssemblyInfo.cs
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 20\DRY-Dont't_Repeat_Yourself\DRY-Dont't_Repeat_Yourself\obj\Debug\net6.0\DRY-Dont't_Repeat_Yourself.csproj.CoreCompileInputs.cache
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 20\DRY-Dont't_Repeat_Yourself\DRY-Dont't_Repeat_Yourself\obj\Debug\net6.0\DRY-Dont't_Repeat_Yourself.dll
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 20\DRY-Dont't_Repeat_Yourself\DRY-Dont't_Repeat_Yourself\obj\Debug\net6.0\refint\DRY-Dont't_Repeat_Yourself.dll
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 20\DRY-Dont't_Repeat_Yourself\DRY-Dont't_Repeat_Yourself\obj\Debug\net6.0\DRY-Dont't_Repeat_Yourself.pdb
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 20\DRY-Dont't_Repeat_Yourself\DRY-Dont't_Repeat_Yourself\obj\Debug\net6.0\DRY-Dont't_Repeat_Yourself.genruntimeconfig.cache
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 20\DRY-Dont't_Repeat_Yourself\DRY-Dont't_Repeat_Yourself\obj\Debug\net6.0\ref\DRY-Dont't_Repeat_Yourself.dll
